@@ -2,7 +2,7 @@
 
 ### Upadate on 11/16/2018
 fix downloading of squeezenet in `download_extra.sh` and `download_resource.sh`
-
+------
 
 # Caffe2 C++ Tutorials and Examples
 
