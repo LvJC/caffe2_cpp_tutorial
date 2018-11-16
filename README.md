@@ -1,5 +1,9 @@
 <img src="icon.jpg" alt="Caffe2 C++ Tutorials Icon" width="72"/>
 
+### Upadate on 11/16/2018
+fix downloading of squeezenet in `download_extra.sh` and `download_resource.sh`
+
+
 # Caffe2 C++ Tutorials and Examples
 
 *C++ transcripts of the Caffe2 Python tutorials and other C++ example code.*
